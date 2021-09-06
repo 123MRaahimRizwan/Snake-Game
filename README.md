@@ -26,7 +26,7 @@ For this command you must have Python installed on your Computer/Laptop.
 Check out Tech with Tim's channel over here for the reference to this code :
 
 
-[Click Here to Watch the Complete Tutorial .](https://www.pygame.org/docs/)
+[Click Here to Watch the Complete Tutorial .](https://www.youtube.com/watch?v=Q-__8Xw9KTM)
   
 
 Enjoy the game :)
